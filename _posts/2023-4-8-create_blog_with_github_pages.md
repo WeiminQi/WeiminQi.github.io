@@ -1,10 +1,10 @@
 ---
 layout: post
 title: "Some moments in research process"
-date:  
-tags:
+date: 2023-4-8
+tags: [geek]
 comments: true
-author: 
+author: Weimin Qi
 ---
 
 <!-- more -->
