@@ -27,7 +27,7 @@ navigation:
   - name: Research
     url: /Research
   - name: Award
-    url: /Award
+    url: /archive
 
 # Pagination
 paginate: 8
