@@ -21,13 +21,13 @@ favicon: https://github.com/WeiminQi/WeiminQi.github.io/raw/master/images/origin
 # it from the list(Delete '- name: ' and 'url: ', too!)
 navigation:
   - name: Home
-    url: /
+    url: /home
   - name: Education
-    url: /Education
+    url: /education
   - name: Research
-    url: /Research
+    url: /research
   - name: Award
-    url: /archive
+    url: /award
 
 # Pagination
 paginate: 8
