@@ -17,9 +17,9 @@ author:
 
 ## Acknowledgement 
 
-Thanks [Jekyll](https://www.jekyll.com.cn/) 提供的技术支持才能有这个博客。
+Thanks [Jekyll](https://www.jekyll.com.cn/) 
 
-Thanks [LOFFER ](https://fromendworld.github.io/LOFFER/document/)提供的原始模板，我在其上进行的二次开发。
+Thanks [LOFFER ](https://fromendworld.github.io/LOFFER/document/)
 
-Thanks [lemon]（https://lemonchann.github.io/blog/）
+Thanks [Lemon](https://lemonchann.github.io/blog/)
 
