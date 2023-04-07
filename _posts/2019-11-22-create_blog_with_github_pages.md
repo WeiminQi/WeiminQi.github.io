@@ -11,7 +11,7 @@ author:
 
 
 
-![PicGo](https://raw.githubusercontent.com/lemonchann/lemonchann.github.io/master/images/j1.jpg)
+![PicGo](https://raw.githubusercontent.com/WeiminQi/WeiminQi.github.io/master/images/j1.jpg)
 
 
 
