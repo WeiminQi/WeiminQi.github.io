@@ -2,7 +2,7 @@
 layout: post
 title: "Some moments in research process"
 date: 2023-04-01
-tags: 
+tags: geek
 comments: true
 author: Weimin Qi
 ---
