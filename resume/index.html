@@ -4,42 +4,10 @@ title: Resume
 permalink: /resume/
 ---
 
-{% if site.posts.size == 0 %}
-  <h2>No post found</h2>
-{% endif %}
 
-<ul class="resume">
-  {% for post in site.posts %}
-    {% unless post.next %}
-      <h2>{{ post.date | date: '%Y' }}</h2>
-    {% else %}
-      {% capture year %}{{ post.date | date: '%Y' }}{% endcapture %}
-      {% capture nyear %}{{ post.next.date | date: '%Y' }}{% endcapture %}
-      {% if year != nyear %}
-        <h2>{{ post.date | date: '%Y' }}</h2>
-      {% endif %}
-    {% endunless %}
-
-    <li>
-      {% if post.link %}
-      <a href="{{ post.link }}">
-      {% else %}
-      <a href="{{ site.baseurl }}{{ post.url }}">
-      {% endif %}
-        {{ post.title }}
-      </a>
-      <time>{{ post.date | date: "%Y-%m-%d" }}</time>
-    </li>
-  {% endfor %}
-</ul>
-
-<!-- The Awards Section -->
+<!-- The Resume Section -->
   <div class="w3-container w3-padding-32" id="award">
-    <h2>Awards</h2>
-    <p><li> 2020, <a href="https://mp.weixin.qq.com/s/dORL01lgFNDHgjp3KMJmiQ">Nomination for Outstanding Youth Paper Award</a>, <a href="https://worldaic.com.cn/portal/en/aboutus.html">WAIC</a></p>               
-    <p><li> 2017, <a href="https://research.google/outreach/phd-fellowship/recipients/?category=2017">Google PhD Fellowship</a></p>
-    <p><li> 2017, <a href="http://scholarship.baidu.com/">Baidu Scholarship</a></p>
-    <p><li> 2017, President's PhD Scholarship, Peking University</p>
-    <p><li> 2017, National Scholarship for Graduate Students</p>
-    <p><li> 2016, National Scholarship for Graduate Students</p>
+    <h2>Education</h2>
+    <p><li> 2019-now, PHD student, the Master-Doctor program of Computer and Information Engineering, < a href="https://www.cuhk.edu.cn">the Chinese University of Hong Kong (Shenzhen)</ a></p>               
+    <p><li> 2013-2017, Bachlor, Intelligent Science and Technology, < a href="www.csu.edu.cn">Central South University</ a> </p>
   </div>  
