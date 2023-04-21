@@ -3,7 +3,7 @@
 #
 
 # Name of your site (displayed in the header)
-name: "QI, Weimin"
+name: "QI, Weimin (Jasmine)"
 # Short bio or description (displayed in the header)
 description: "PHD Candidate, The Chinese University of Hong Kong, Shenzhen"
 
@@ -13,7 +13,6 @@ description: "PHD Candidate, The Chinese University of Hong Kong, Shenzhen"
 # URL of your avatar or profile pic (you could use your GitHub profile pic)
 
 avatar: https://raw.githubusercontent.com/WeiminQi/WeiminQi.github.io/master/images/name.png
-# 你的favicon（出现在浏览器tab上）图片URL，建议使用较小(64px × 64px)的图片
 favicon: https://raw.githubusercontent.com/WeiminQi/WeiminQi.github.io/master/images/origin.png
 
 # Tabs in header. There are 'Home', 'Education', 'Research', 'Award'
