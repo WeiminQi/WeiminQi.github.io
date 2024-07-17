@@ -27,7 +27,7 @@ navigation:
     url: /services
   - name: Awards
     url: /award
-  - name: Resume
+  - name: About
     url: /resume
 
 # Pagination
